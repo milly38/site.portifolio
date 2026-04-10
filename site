@@ -957,7 +957,7 @@
   <div class="sobre-grid">
     <div class="sobre-text">
       <p>
-        Olá! Sou a <strong>Emilly</strong>, estudante de Cibersistemas para Automação no SENAI, atualmente no segundo semestre. Tenho interesse na área da tecnologia, automação e inovação, e estou em desenvolvimento em programação, redes, elétrica, robótica, CLP e CiberSegurança. 
+        Olá! Sou a <strong>Emilly</strong>, estudante de Cibersistemas para Automação no SENAI, atualmente no terceiro semestre. Tenho interesse na área da tecnologia, automação e inovação, e estou em desenvolvimento em programação, redes, elétrica, robótica, CLP e CiberSegurança. 
 Possuo certificações em fundamentos de python, fundamentos da inteligência artificial, ética na inteligência artificial, elétrica aplicada para automação e TI, fundamentos básicos de redes, excel básico, entre outros, estou em constante aprendizado para ampliar minhas habilidades em outras linguagens, como Java, C, C++ e C#.
 Sou uma pessoa dedicada, curiosa e gosto de desafios. Busco sempre aprender e evoluir para construir uma carreira na área de tecnologia, contribuindo com ideias criativas e soluções inteligentes.
 Abertas a novas oportunidades e experiências que permite crescer profissionalmente e aplicar o que venho apendendo
@@ -1093,66 +1093,102 @@ Abertas a novas oportunidades e experiências que permite crescer profissionalme
 
 <!-- CERTIFICAÇÕES -->
 <section id="certificacoes">
-  <div class="section-label">03 // CERTIFICAÇÕES</div>
-  <h2 class="section-title">MINHAS<br><span style="color:var(--cyan)">CREDENCIAIS</span></h2>
-  <div class="certs-list">
-    <div class="cert-item">
-      <div class="cert-badge">☁️</div>
-      <div class="cert-info">
-        <div class="cert-name">AWS Certified Developer – Associate</div>
-        <div class="cert-issuer">Amazon Web Services</div>
+    <div class="section-label">03 // CERTIFICAÇÕES</div>
+    <h2 class="section-title">MINHAS<br><span style="color:var(--cyan)">CREDENCIAIS</span></h2>
+    <div class="certs-list">
+      <div class="cert-item">
+        <div class="cert-badge">✒️</div>
+        <div class="cert-info">
+          <div class="cert-name">FUNDAMENTOS DA METROLOGIA E DESENHO TÉCNICO</div>
+        </div>
+        <div class="cert-meta">
+          <div class="cert-year">2025</div>
+          <div class="cert-status">● ATIVO</div>
+        </div>
       </div>
-      <div class="cert-meta">
-        <div class="cert-year">2024</div>
-        <div class="cert-status">● ATIVO</div>
+      <div class="cert-item">
+        <div class="cert-badge">⚙️</div>
+        <div class="cert-info">
+          <div class="cert-name"> INTEGRAÇÃO DE SENSORES E DISPOSITIVOS DE AUTOMAÇÃO</div>
+        </div>
+        <div class="cert-meta">
+          <div class="cert-year">2025</div>
+          <div class="cert-status">● ATIVO</div>
+        </div>
       </div>
+      <div class="cert-item">
+        <div class="cert-badge">💻</div>
+        <div class="cert-info">
+          <div class="cert-name">ÉTICA NA INTELIGÊNCIA ARTIFICIAL</div>
+        </div>
+        <div class="cert-meta">
+          <div class="cert-year">2025</div>
+          <div class="cert-status">● ATIVO</div>
+        </div>
+      </div>
+      <div class="cert-item">
+        <div class="cert-badge">🐍</div>
+        <div class="cert-info">
+          <div class="cert-name">FUNDAMENTOS DO PYTHON 1</div>
+        </div>
+        <div class="cert-meta">
+          <div class="cert-year">2025</div>
+          <div class="cert-status">● ATIVO</div>
+        </div>
+      </div>
+      <div class="cert-item">
+        <div class="cert-badge">🔌</div>
+        <div class="cert-info">
+          <div class="cert-name"> Conceitos Básicos de Redes</div>
+        </div>
+        <div class="cert-meta">
+          <div class="cert-year">2025</div>
+          <div class="cert-status">● ATIVO</div>
+        </div>
+     </div>
+      <div class="cert-item">
+        <div class="cert-badge">🖱️</div>
+        <div class="cert-info">
+          <div class="cert-name"> Técnico em eletronica aplicada a sistemas de automação e TI</div>
+        </div>
+        <div class="cert-meta">
+          <div class="cert-year">2025</div>
+          <div class="cert-status">● ATIVO</div>
+        </div>
     </div>
-    <div class="cert-item">
-      <div class="cert-badge">🏆</div>
-      <div class="cert-info">
-        <div class="cert-name">Professional Scrum Master I (PSM I)</div>
-        <div class="cert-issuer">Scrum.org</div>
-      </div>
-      <div class="cert-meta">
-        <div class="cert-year">2023</div>
-        <div class="cert-status">● ATIVO</div>
-      </div>
+      <div class="cert-item">
+        <div class="cert-badge">📱</div>
+        <div class="cert-info">
+          <div class="cert-name">FUNDAMENTOS DA INTELIGÊNCIA ARTIFICIAL</div>
+        </div>
+        <div class="cert-meta">
+          <div class="cert-year">2025</div>
+          <div class="cert-status">● ATIVO</div>
+        </div>
     </div>
-    <div class="cert-item">
-      <div class="cert-badge">⚛️</div>
-      <div class="cert-info">
-        <div class="cert-name">React – Desenvolvimento de Interfaces</div>
-        <div class="cert-issuer">Rocketseat</div>
-      </div>
-      <div class="cert-meta">
-        <div class="cert-year">2023</div>
-        <div class="cert-status">● ATIVO</div>
-      </div>
-    </div>
-    <div class="cert-item">
-      <div class="cert-badge">🐍</div>
-      <div class="cert-info">
-        <div class="cert-name">Python para Data Science e Machine Learning</div>
-        <div class="cert-issuer">Udemy / Jose Portilla</div>
-      </div>
-      <div class="cert-meta">
-        <div class="cert-year">2022</div>
-        <div class="cert-status">● ATIVO</div>
-      </div>
-    </div>
-    <div class="cert-item">
-      <div class="cert-badge">🐳</div>
-      <div class="cert-info">
-        <div class="cert-name">Docker & Kubernetes: Guia Completo</div>
-        <div class="cert-issuer">Linux Tips</div>
-      </div>
-      <div class="cert-meta">
-        <div class="cert-year">2022</div>
-        <div class="cert-status">● ATIVO</div>
-      </div>
-    </div>
+      <div class="cert-item">
+        <div class="cert-badge">📱</div>
+        <div class="cert-info">
+          <div class="cert-name">FUNDAMENTOS DO MARKETING DIGITAL</div>
+        </div>
+        <div class="cert-meta">
+          <div class="cert-year">2025</div>
+          <div class="cert-status">● ATIVO</div>
+        </div>
   </div>
-</section>
+      <div class="cert-item">
+        <div class="cert-badge">📱</div>
+        <div class="cert-info">
+          <div class="cert-name">POR DENTRO DA SEGURANÇA CIBERNÉTICA</div>
+        </div>
+        <div class="cert-meta">
+          <div class="cert-year">2025</div>
+          <div class="cert-status">● ATIVO</div>
+        </div>
+      </div>
+    </div>
+  </section>
+  
 
 <!-- CURRÍCULO -->
 <section id="curriculo">
@@ -1160,9 +1196,9 @@ Abertas a novas oportunidades e experiências que permite crescer profissionalme
   <h2 class="section-title">EXPERIÊNCIA<br><span style="color:var(--cyan)">PROFISSIONAL</span></h2>
   <div class="timeline">
     <div class="timeline-item">
-      <div class="timeline-date">2023 — PRESENTE</div>
-      <div class="timeline-role">Desenvolvedor Full Stack Sênior</div>
-      <div class="timeline-company">▸ EMPRESA ATUAL LTDA.</div>
+      <div class="timeline-date">2025 — PRESENTE</div>
+      <div class="timeline-role">Parceiria SENAI</div>
+      <div class="timeline-company">▸ consorciocantareira</div>
       <p class="timeline-desc">Liderança técnica de time de 5 pessoas, arquitetura de microsserviços, revisão de código e implementação de CI/CD. Responsável por decisões de stack e migração de sistemas legados para cloud.</p>
     </div>
     <div class="timeline-item">
@@ -1196,7 +1232,7 @@ Abertas a novas oportunidades e experiências que permite crescer profissionalme
       <h3>Aberto a novas oportunidades</h3>
       <p>Se você tem um projeto interessante, quer colaborar ou só bater um papo sobre tecnologia, pode me chamar. Respondo rápido.</p>
       <div class="contact-links">
-        <a href="@email.com" class="contact-link">
+        <a href="mi.estrela08@email.com" class="contact-link">
           <div class="contact-icon">✉</div>
           seuemail@email.com
         </a>
@@ -1208,7 +1244,7 @@ Abertas a novas oportunidades e experiências que permite crescer profissionalme
           <div class="contact-icon">⌥</div>
           github.com/seuperfil
         </a>
-        <a href="https://wa.me/5511999999999" class="contact-link" target="_blank">
+        <a href="https://wa.me/5511961518855" class="contact-link" target="_blank">
           <div class="contact-icon">◎</div>
           WhatsApp
         </a>
@@ -1239,7 +1275,7 @@ Abertas a novas oportunidades e experiências que permite crescer profissionalme
 <!-- FOOTER -->
 <footer>
   <div class="footer-logo">DEV.PORTFOLIO</div>
-  <div class="footer-copy">© 2025 — TODOS OS DIREITOS RESERVADOS</div>
+  <div class="footer-copy">© 2025 — Emilly de Oliveira Santos</div>
   <div class="footer-coords">-23.5505° S, 46.6333° W</div>
 </footer>
 
